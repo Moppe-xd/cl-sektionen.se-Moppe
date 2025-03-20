@@ -27,7 +27,7 @@ const MENU_LIST = [
 			{ text: "Engagera dig", href: "/engagera-dig" },
 			{ text: "Hedersutmärkelser", href: "/hedersutmarkelser" },
 			{ text: "Valens äventyr", href: "/valen" },
-			{text: "Classiker", href: "/classiker"},
+			{ text: "Classiker", href: "/classiker" },
 		],
 	},
 	{
